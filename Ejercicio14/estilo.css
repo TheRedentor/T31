@@ -1,0 +1,13 @@
+table {
+    border: 1px solid;
+    box-shadow: 2px 2px rgb(65, 65, 65);
+}
+
+input {
+    text-align: right;
+    width: 260px;
+}
+
+button {
+    width: 50px;
+}

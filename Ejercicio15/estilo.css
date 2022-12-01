@@ -1,0 +1,21 @@
+.container {
+    display: inline-block;
+}
+
+.col {
+    display: inline;
+}
+
+img {
+    width: 100px;
+    height: 75px;
+}
+
+#img-grande {
+    width: 400px;
+    height: 300px;
+}
+
+p {
+    text-align: center;
+}
